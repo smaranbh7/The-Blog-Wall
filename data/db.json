@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "74ba",
+      "title": "Smaran's 1st Post",
+      "body": "I am trying to be a full stack developer. I am currently learning front end.",
+      "author": "mario"
+    },
+    {
+      "id": "e4bb",
+      "title": "React",
+      "body": "I am currently learning react",
+      "author": "yoshi"
+    }
+  ]
+}
